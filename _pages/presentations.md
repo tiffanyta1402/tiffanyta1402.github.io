@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: presentations
-description: any oral presentations (posters/talks)
+description: any oral presentations (talks/posters)
 nav: true
 nav_order: 6
 ---

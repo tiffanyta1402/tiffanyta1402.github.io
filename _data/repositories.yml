@@ -1,8 +1,1 @@
-github_users:
-  - tiffanyta1402
-
-repo_description_lines_max: 2
-
-github_repos:
-  - AMR-genomics-hackathon-2026/atb-ai-agent
-  - tiffanyta1402/tiffanyta1402.github.io
+repo_description_lines_max: 3

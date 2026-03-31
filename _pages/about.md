@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "1st year PhD student || McMaster University"
+subtitle: "PhD student @ <a href='https://www.mcmaster.ca/'>McMaster University</a>"
 
 profile:
   align: right
@@ -22,7 +22,7 @@ latest_posts:
 
 ---
 
-Michael G. DeGroote Institute for Infectious Disease Research 
+Michael G. DeGroote Institute for Infectious Disease Research, David Braley Center for Antibiotic Discovery
 
 Supervisor: <a href='https://mcarthurbioinformatics.ca/'>Dr. Andrew G. McArthur</a>
   

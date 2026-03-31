@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
@@ -30,9 +23,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-awards",
+          title: "awards",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
+          },
+        },{id: "nav-presentations",
+          title: "presentations",
+          description: "any oral presentations (posters/talks)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/presentations/";
+          },
         },{id: "nav-cv",
-          title: "CV",
-          description: "My CV as of March 30, 2026.",
+          title: "cv",
+          description: "My most up-to-date CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

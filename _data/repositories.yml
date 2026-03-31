@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tiffanyta1402
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - AMR-genomics-hackathon-2026/atb-ai-agent
+  - tiffanyta1402/tiffanyta1402.github.io

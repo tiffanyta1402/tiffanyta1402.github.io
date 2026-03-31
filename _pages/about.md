@@ -6,7 +6,7 @@ subtitle: **1st year PhD student || McMaster University**
 Michael G. DeGroote Institute for Infectious Disease Research || Supervisor: <a href='https://mcarthurbioinformatics.ca/'>Dr. Andrew G. McArthur</a>.
 
 profile:
-  align: rightt
+  align: right
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
 

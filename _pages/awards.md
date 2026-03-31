@@ -2,31 +2,43 @@
 layout: page
 permalink: /awards/
 title: awards
-description: 
+description: a summary of honours and awards earned up-to-date.
 nav: true
 nav_order: 5
 ---
 
-honours and awards earned up-to-date
+<div class="card mt-3 p-3">
 
-####  🏆 Best Poster Award
-**Date:** March 25, 2026  
-**Awarded by:** Antimicrobial Resistance – Genomes, Big Data, and Emerging Technologies Conference  
+<h4>🏆 Best Poster Award</h4>
 
----
+<p><strong>Date:</strong> March 25, 2026</p>
+<p><strong>Awarded by:</strong> Antimicrobial Resistance – Genomes, Big Data, and Emerging Technologies Conference</p>
 
-####  🏆 Ontario Graduate Fellowship
-**Date:** September 2024  
-**Awarded by:** Department of Biochemistry and Biomedical Sciences, McMaster University  
+</div>
 
----
+<div class="card mt-3 p-3">
 
-#### 🏆 David Braley Center for Antibiotic Discovery Fellowship
-**Date:** May 2024  
-**Awarded by:** Department of Biochemistry and Biomedical Sciences, McMaster University  
+<h4>🏆 Ontario Graduate Fellowship</h4>
 
----
+<p><strong>Date:</strong> September 2024</p>
+<p><strong>Awarded by:</strong> Department of Biochemistry and Biomedical Sciences, McMaster University</p>
 
-#### 🏆 David Braley Center for Antibiotic Discovery Fellowship
-**Date:** May 2023  
-**Awarded by:** Department of Biochemistry and Biomedical Sciences, McMaster University  
+</div>
+
+<div class="card mt-3 p-3">
+
+<h4>🏆 David Braley Center for Antibiotic Discovery Fellowship</h4>
+
+<p><strong>Date:</strong> May 2024</p>
+<p><strong>Awarded by:</strong> Department of Biochemistry and Biomedical Sciences, McMaster University</p>
+
+</div>
+
+<div class="card mt-3 p-3">
+
+<h4>🏆 David Braley Center for Antibiotic Discovery Fellowship</h4>
+
+<p><strong>Date:</strong> May 2023</p>
+<p><strong>Awarded by:</strong> Department of Biochemistry and Biomedical Sciences, McMaster University</p>
+
+</div>

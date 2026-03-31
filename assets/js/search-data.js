@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -440,16 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-won-best-poster-at-the-antimicrobial-resistance-genomes-big-data-and-emerging-technologies-at-wellcome-genome-campus-hinxton-england-trophy",
+          title: 'Won best poster at the Antimicrobial Resistance – Genomes, Big Data and Emerging...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-attended-the-amr-genomics-hackathon-at-jesus-college-cambridge-university-england-see-some-of-the-work-that-i-contributed-here",
+          title: 'Attended the AMR Genomics Hackathon at Jesus College, Cambridge University, England. See some...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

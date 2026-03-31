@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "",
+          description: "any repositories that I&#39;ve ever contributed to",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-awards",
           title: "awards",
-          description: "a summary of honours and awards earned up-to-date.",
+          description: "a summary of honours and awards earned up-to-date",
           section: "Navigation",
           handler: () => {
             window.location.href = "/awards/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "My most up-to-date CV.",
+          description: "my most up-to-date CV",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

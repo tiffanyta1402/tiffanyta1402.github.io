@@ -26,7 +26,7 @@ nav_order: 6
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing to analyze and visualize the transmission pathways of antimicrobial resistance genes.</h5>
-<p>Biomedical Discovery and Commercialization Engag @ McMaster University, Hamilton, Ontario, Canada. March 2024.</p>
+<p>Biomedical Discovery and Commercialization Engage @ McMaster University, Hamilton, Ontario, Canada. March 2024.</p>
 </div>
 
 ---
@@ -35,45 +35,45 @@ nav_order: 6
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing for antimicrobial resistance surveillance.</h5>
-<p>Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies. Wellcome Genome Campus, Hinxton, Cambridgeshire, England. March 2026.</p>
+<p>Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies @ Wellcome Genome Campus, Hinxton, Cambridgeshire, England. March 2026.</p>
 </div>
 
 <div class="card mt-3 p-3">
 <h5>CARD*CURATE: developing tools for an artificial intelligence agent to expedite the curation of antibiotic and antimicrobial resistance gene knowledge.</h5>
-<p>Institute of Infectious Disease Research Trainee Day. McMaster University, Hamilton, Ontario, Canada. November 2025.</p>
+<p>Institute of Infectious Disease Research Trainee Day @ McMaster University, Hamilton, Ontario, Canada. November 2025.</p>
 </div>
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing for antimicrobial resistance epidemiology and surveillance.</h5>
-<p>Emerging Pandemics and Infections Consortium AMR Symposium. Sheraton Center Hotel, Toronto, Ontario, Canada. November 2024.</p>
+<p>Emerging Pandemics and Infections Consortium AMR Symposium @ Sheraton Center Hotel, Toronto, Ontario, Canada. November 2024.</p>
 </div>
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing to extract minimum inhibitory concentration of antibiotics from PubMed Central.</h5>
-<p>Institute of Infectious Disease Research Trainee Day. McMaster University, Hamilton, Ontario, Canada. November 2024.</p>
+<p>Institute of Infectious Disease Research Trainee Day @ McMaster University, Hamilton, Ontario, Canada. November 2024.</p>
 </div>
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing to analyze and visualize the transmission pathways of antimicrobial resistance genes.</h5>
-<p>Canadian Society of Microbiologists Annual Meeting 2024. Western University, London, Ontario, Canada. June 2024.</p>
+<p>Canadian Society of Microbiologists Annual Meeting 2024 @ Western University, London, Ontario, Canada. June 2024.</p>
 </div>
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing to analyze and visualize the transmission pathways of antimicrobial resistance genes.</h5>
-<p>Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies. Wellcome Genome Campus, Hinxton, Cambridgeshire, England. March 2024.</p>
+<p>Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies @ Wellcome Genome Campus, Hinxton, Cambridgeshire, England. March 2024.</p>
 </div>
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing to analyze and visualize the transmission pathways of antimicrobial resistance genes.</h5>
-<p>Biochemistry and Biomedical Sciences Research Symposium. McMaster University, Hamilton, Ontario, Canada. March 2024.</p>
+<p>Biochemistry and Biomedical Sciences Research Symposium @ McMaster University, Hamilton, Ontario, Canada. March 2024.</p>
 </div>
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing to analyze the transmission pathways of antimicrobial resistance genes through a “confusogram”.</h5>
-<p>Canadian Undergraduate Conference on Healthcare. Queen’s University, Kingston, Ontario, Canada. January 2024.</p>
+<p>Canadian Undergraduate Conference on Healthcare @ Queen’s University, Kingston, Ontario, Canada. January 2024.</p>
 </div>
 
 <div class="card mt-3 p-3">
 <h5>Using natural language processing to analyze the transmission pathways of antimicrobial resistance genes through a “confusogram”.</h5>
-<p>Institute of Infectious Disease Research Trainee Day. McMaster University, Hamilton, Ontario, Canada. November 2023.</p>
+<p>Institute of Infectious Disease Research Trainee Day @ McMaster University, Hamilton, Ontario, Canada. November 2023.</p>
 </div>

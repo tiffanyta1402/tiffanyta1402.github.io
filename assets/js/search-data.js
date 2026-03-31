@@ -435,12 +435,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-won-best-poster-at-the-antimicrobial-resistance-genomes-big-data-and-emerging-technologies-at-wellcome-genome-campus-hinxton-england-trophy",
+      },{id: "news-won-best-poster-at-the-antimicrobial-resistance-genomes-big-data-and-emerging-technologies-at-wellcome-genome-campus-hinxton-england-trophy",
           title: 'Won best poster at the Antimicrobial Resistance – Genomes, Big Data and Emerging...',
           description: "",
           section: "News",},{id: "news-attended-the-amr-genomics-hackathon-at-jesus-college-cambridge-university-england-see-some-of-the-work-that-i-contributed-here",
@@ -535,13 +530,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',

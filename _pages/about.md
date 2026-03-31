@@ -19,10 +19,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I'm interested in using natural langauge processing (NLP) for antimicrobial resistance (AMR) surveillance. I've used text mining techniques (e.g., text classificaiton, named entity recogntion, relation extraction) to extract antibiotic information (e.g., minimum inhibitory concentration) from biomedical literature. My current work involves developing a multi-agentic framework for biocuration.

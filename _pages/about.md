@@ -22,7 +22,7 @@ latest_posts:
 
 ---
 
-Michael G. DeGroote Institute for Infectious Disease Research, David Braley Center for Antibiotic Discovery
+David Braley Center for Antibiotic Discovery, Michael G. DeGroote Institute for Infectious Disease Research
 
 Supervisor: <a href='https://mcarthurbioinformatics.ca/'>Dr. Andrew G. McArthur</a>
   

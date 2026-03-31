@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -44,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "news-won-best-poster-at-the-antimicrobial-resistance-genomes-big-data-and-emerging-technologies-at-wellcome-genome-campus-hinxton-england-trophy",
-          title: 'Won best poster at the Antimicrobial Resistance – Genomes, Big Data and Emerging...',
+        },{id: "news-trophy-won-best-poster-at-the-antimicrobial-resistance-genomes-big-data-and-emerging-technologies-at-wellcome-genome-campus-hinxton-england",
+          title: ':trophy: Won best poster at the Antimicrobial Resistance – Genomes, Big Data and...',
           description: "",
           section: "News",},{id: "news-attended-the-amr-genomics-hackathon-at-jesus-college-cambridge-university-england-see-some-of-the-work-that-i-contributed-here",
           title: 'Attended the AMR Genomics Hackathon at Jesus College, Cambridge University, England. See some...',

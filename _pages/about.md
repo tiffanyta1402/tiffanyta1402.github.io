@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mcmaster.ca/'>Affiliations</a>. 1st year PhD student in the <a href='https://mcarthurbioinformatics.ca/'>McArthur Lab</a>. 
+subtitle: **1st year PhD student || McMaster University**
+Michael G. DeGroote Institute for Infectious Disease Research || Supervisor: <a href='https://mcarthurbioinformatics.ca/'>Dr. Andrew G. McArthur</a>.
 
 profile:
-  align: right
+  align: rightt
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm interested in using natural langauge processing (NLP) for antimicrobial resistance (AMR) surveillance. I've used text mining techniques (e.g., text classificaiton, named entity recogntion, relation extraction) to extract antibiotic information (e.g., minimum inhibitory concentration) from biomedical literature. My current work involves developing a multi-agentic framework for biocuration.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

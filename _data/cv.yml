@@ -1,105 +1,78 @@
-cv:
-  name: Tiffany Ta
-  label: PhD student
-  email: tat5@mcmaster.ca
-  location: Hamilton, Ontario, Canada
-  image: ""
+cv: ""
+  # name: Tiffany Ta
+  # label: PhD student
+  # email: tat5@mcmaster.ca
+  # location: Hamilton, Ontario, Canada
+  # image: ""
 
-  social_networks:
-    - network: GitHub
-      username: tiffanyta1402
-    - network: LinkedIn
-      username: tiffany-ta
+  # social_networks:
+  #   - network: GitHub
+  #     username: tiffanyta1402
+  #   - network: LinkedIn
+  #     username: tiffany-ta
 
-  sections:
-    Education:
-      - institution: McMaster University
-        location: Hamilton, Ontario, Canada
-        url: https://www.mcmaster.ca/
-        area: Biomedical Discovery and Commercialization
-        studyType: BHSc
-        start_date: September 2020
-        end_date: April 2024
-        score: ""
-        courses: "Organic chemistry, drug discovery and development, research skills laboratory and inquiry, accounting, organizational behaviour, finance, marketing, proteins and nucleic acids, analytical chemistry, and physical chemistry"
-        highlights: ""
+  # sections:
+  #   Education:
+  #     - institution: McMaster University
+  #       location: Hamilton, Ontario, Canada
+  #       url: https://www.mcmaster.ca/
+  #       area: Biomedical Discovery and Commercialization
+  #       studyType: BHSc
+  #       start_date: September 2020
+  #       end_date: April 2024
+  #       score: ""
+  #       courses: "Organic chemistry, drug discovery and development, research skills laboratory and inquiry, accounting, organizational behaviour, finance, marketing, proteins and nucleic acids, analytical chemistry, and physical chemistry"
+  #       highlights: ""
 
-    Experience:
-      - company: Department of Biochemistry and Biomedical Sciences, McMaster University
-        position: Teaching Assistant
-        location: McMaster University, Ontario, Canada
-        start_date: September 2025
-        end_date: December 2025
-        summary: Teaching Assistant for BIOCHEM 3BP3 (Practical Bioinformatics in the Genomics Era) taught by Dr. Kathleen Houlahan.
+  #   Experience:
+  #     - company: Department of Biochemistry and Biomedical Sciences, McMaster University
+  #       position: Teaching Assistant
+  #       location: McMaster University, Ontario, Canada
+  #       start_date: September 2025
+  #       end_date: December 2025
+  #       summary: Teaching Assistant for BIOCHEM 3BP3 (Practical Bioinformatics in the Genomics Era) taught by Dr. Kathleen Houlahan.
 
-      - company: Department of Biochemistry and Biomedical Sciences, McMaster University
-        position: Developer Assistant
-        location: McMaster University, Ontario, Canada
-        start_date: May 2024
-        end_date: August 2024
-        highlights:
-          - Using large language models for full-text analysis of biomedical publications.
+  #     - company: Department of Biochemistry and Biomedical Sciences, McMaster University
+  #       position: Developer Assistant
+  #       location: McMaster University, Ontario, Canada
+  #       start_date: May 2024
+  #       end_date: August 2024
+  #       highlights:
+  #         - Using large language models for full-text analysis of biomedical publications.
   
-      - company: Department of Biochemistry and Biomedical Sciences, McMaster University
-        position: Developer Assistant
-        location: McMaster University, Ontario, Canada
-        start_date: May 2023
-        end_date: August 2023
-        highlights:
-          - Used natural language processing techniques to visualize big data, creating a novel antimicrobial resistance “Confusogram”.
+  #     - company: Department of Biochemistry and Biomedical Sciences, McMaster University
+  #       position: Developer Assistant
+  #       location: McMaster University, Ontario, Canada
+  #       start_date: May 2023
+  #       end_date: August 2023
+  #       highlights:
+  #         - Used natural language processing techniques to visualize big data, creating a novel antimicrobial resistance “Confusogram”.
 
-    Awards:
-      - title: Best Poster Award
-        authors:
-          - Tiffany E. Ta
-          - Brian P. Alcock
-          - Andrew G. McArthur
-        date: 2026-03-25
-        awarder: Antimicrobial Resistance – Genomes, Big Data, and Emerging Technologies Conference
-        url: ""
+  #   Awards:
+  #     - title: Best Poster Award
+  #       authors:
+  #         - Tiffany E. Ta
+  #         - Brian P. Alcock
+  #         - Andrew G. McArthur
+  #       date: 2026-03-25
+  #       awarder: Antimicrobial Resistance – Genomes, Big Data, and Emerging Technologies Conference
+  #       url: ""
 
-      - title: Ontario Graduate Fellowship 
-        authors:
-          - Tiffany E. Ta
-        date: 2024
-        awarder: Department of Biochemistry and Biomedical Sciences, McMaster University
+  #     - title: Ontario Graduate Fellowship 
+  #       authors:
+  #         - Tiffany E. Ta
+  #       date: 2024
+  #       awarder: Department of Biochemistry and Biomedical Sciences, McMaster University
 
-      - title: David Braley Center for Antibiotic Discovery Fellowship
-        authors:
-          - Tiffany E. Ta
-        date: 2024
-        awarder: Department of Biochemistry and Biomedical Sciences, McMaster University
+  #     - title: David Braley Center for Antibiotic Discovery Fellowship
+  #       authors:
+  #         - Tiffany E. Ta
+  #       date: 2024
+  #       awarder: Department of Biochemistry and Biomedical Sciences, McMaster University
 
-      - title: David Braley Center for Antibiotic Discovery Fellowship
-        authors:
-          - Tiffany E. Ta
-        date: 2023
-        awarder: Department of Biochemistry and Biomedical Sciences, McMaster University
+  #     - title: David Braley Center for Antibiotic Discovery Fellowship
+  #       authors:
+  #         - Tiffany E. Ta
+  #       date: 2023
+  #       awarder: Department of Biochemistry and Biomedical Sciences, McMaster University
 
-    Publications:
-      - title: CARD k-mers: Unmasking the pathogen hosts and genomic contexts of antimicrobial resistance genes in metagenomic sequences
-        authors:
-          - Mateusz A. Wlodarski
-          - Tammy T.Y. Lau
-          - Brian P. Alcock
-          - Amogelang R. Raphenya
-          - Tiffany E. Ta
-          - Finlay Maguire
-          - Robert G. Beiko
-          - Andrew G. McArthur
-
-        publisher: bioRxiv
-        releaseDate: 2025-09-18
-        url: https://www.biorxiv.org/content/10.1101/2025.09.15.676352v1
-        summary: ""
-
-    Interests:
-      - name: Natural language processing
-        icon: fa-solid fa-tag
-        keywords: "Artificial intelligence, large language models, text mining"
-
-    Certificates:
-      - name: Agentic AI
-        date: 2018-01-01
-        issuer: DeepLearning.AI
-        icon: fa-solid fa-tag

@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Won best poster at the Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies at Wellcome Genome Campus, Hinxton, England! :trophy:
+:trophy: Won best poster at the Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies at Wellcome Genome Campus, Hinxton, England! 
  

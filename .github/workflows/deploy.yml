@@ -3,7 +3,6 @@ name: Deploy site
 on:
   push:
     branches:
-      - master
       - main
     paths:
       - "**"
@@ -33,7 +32,6 @@ on:
       - "!README.md"
   pull_request:
     branches:
-      - master
       - main
     paths:
       - "**"

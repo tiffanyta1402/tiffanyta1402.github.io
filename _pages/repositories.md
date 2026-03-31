@@ -2,13 +2,10 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: ""
-
+description: any repositories that I've ever contributed to
 nav: true
 nav_order: 4
 ---
-
-any repositories that I've ever contributed to
 
 ### Research & Academic Projects
 - [**<u>AMR Genomics Hackathon 2026 - ATB AI Agent</u>**](https://github.com/AMR-genomics-hackathon-2026/atb-ai-agent)  

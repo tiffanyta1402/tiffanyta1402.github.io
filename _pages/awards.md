@@ -2,7 +2,7 @@
 layout: page
 permalink: /awards/
 title: awards
-description: a summary of honours and awards earned up-to-date.
+description: a summary of honours and awards earned up-to-date
 nav: true
 nav_order: 5
 ---

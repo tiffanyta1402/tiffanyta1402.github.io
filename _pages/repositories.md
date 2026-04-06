@@ -8,13 +8,13 @@ nav_order: 4
 ---
 
 ### Research & Academic Projects
-- [**<u>AMR Genomics Hackathon 2026 - ATB AI Agent</u>**](https://github.com/AMR-genomics-hackathon-2026/atb-ai-agent)  
+- [AMR Genomics Hackathon 2026 - ATB AI Agent](https://github.com/AMR-genomics-hackathon-2026/atb-ai-agent)  
   Developing an agentic system for [AllTheBacteria](https://allthebacteria.org/)  
-- [**<u>CARD:Epi Analysis</u>**](https://https://github.com/tiffanyta1402/cardepi-analysis)  
+- [CARD:Epi Analysis](https://github.com/tiffanyta1402/cardepi-analysis)  
   Analyzing the epidemiology and transmission patterns of antimicrobial resistance genes using the CARD:Epi dataset (manuscript in preparation).
 
 ### Personal Projects
-- [**<u>Academic Website</u>**](https://github.com/tiffanyta1402/tiffanyta1402.github.io)  
+- [Academic Website](https://github.com/tiffanyta1402/tiffanyta1402.github.io)  
   This website built with Jekyll and al-folio theme
 
 ---

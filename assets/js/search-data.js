@@ -47,7 +47,7 @@ ninja.data = [{
         },{id: "news-trophy-won-best-poster-at-the-antimicrobial-resistance-genomes-big-data-and-emerging-technologies-at-wellcome-genome-campus-hinxton-england",
           title: ':trophy: Won best poster at the Antimicrobial Resistance – Genomes, Big Data and...',
           description: "",
-          section: "News",},{id: "news-attended-the-amr-genomics-hackathon-at-jesus-college-cambridge-university-england-see-some-of-the-work-that-i-contributed-here",
+          section: "News",},{id: "news-attended-the-amr-genomics-hackathon-at-jesus-college-cambridge-university-england-see-some-of-the-work-that-i-contributed-to-here",
           title: 'Attended the AMR Genomics Hackathon at Jesus College, Cambridge University, England. See some...',
           description: "",
           section: "News",},{id: "news-trophy-won-a-faculty-of-health-sciences-graduate-programs-outstanding-achievement-award-for-2026",

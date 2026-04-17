@@ -12,7 +12,7 @@ nav_order: 5
 <h4>🏆 Faculty of Health Sciences Graduate Programs Outstanding Achievement Award</h4>
 
 <p><strong>Date:</strong> April 15, 2026</p>
-<p><strong>Awarded by:</strong> Department of Biochemistry and Biomedical Sciences</p>
+<p><strong>Awarded by:</strong> Department of Biochemistry and Biomedical Sciences, McMaster University</p>
 
 </div>
 

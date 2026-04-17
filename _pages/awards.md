@@ -9,6 +9,15 @@ nav_order: 5
 
 <div class="card mt-3 p-3">
 
+<h4>🏆 Faculty of Health Sciences Graduate Programs Outstanding Achievement Award</h4>
+
+<p><strong>Date:</strong> April 15, 2026</p>
+<p><strong>Awarded by:</strong> Department of Biochemistry and Biomedical Sciences</p>
+
+</div>
+
+<div class="card mt-3 p-3">
+
 <h4>🏆 Best Poster Award</h4>
 
 <p><strong>Date:</strong> March 25, 2026</p>

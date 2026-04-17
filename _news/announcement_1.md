@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:trophy: I won a Faculty of Health Sciences Graduate Programs Outstanding Achievement Award for 2026.
+:trophy: Won a Faculty of Health Sciences Graduate Programs Outstanding Achievement Award for 2026.

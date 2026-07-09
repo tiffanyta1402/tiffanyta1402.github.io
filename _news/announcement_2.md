@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-03-27
+date: 2026-04-15
 inline: true
 related_posts: false
 ---
 
-Attended the AMR Genomics Hackathon at Jesus College, Cambridge University, England. See some of the work that I contributed to <a href='https://github.com/AMR-genomics-hackathon-2026/atb-ai-agent'>here</a>.
+:trophy: Won a Faculty of Health Sciences Graduate Programs Outstanding Achievement Award for 2026.

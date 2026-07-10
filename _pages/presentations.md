@@ -8,6 +8,10 @@ nav_order: 6
 ---
 
 ### 🗣️ invited talks
+<div class="card mt-3 p-3">
+<h5>Using large language models for antimicrobial resistance surveillance.</h5>
+<p>Zoonoses, Antimicrobial Resistance, Bioinformatics @ Dalhousie University, Halifax, Nova Scotia, Canada. July 2026.</p>
+</div>
 
 <div class="card mt-3 p-3">
 <h5>Applying natural language processing for antimicrobial resistance surveillance.</h5>

@@ -44,14 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-attended-the-amr-genomics-hackathon-at-jesus-college-cambridge-university-england-see-some-of-the-work-that-i-contributed-to-here",
-          title: 'Attended the AMR Genomics Hackathon at Jesus College, Cambridge University, England. See some...',
-          description: "",
-          section: "News",},{id: "news-trophy-won-a-faculty-of-health-sciences-graduate-programs-outstanding-achievement-award-for-2026",
+        },{id: "news-trophy-won-a-faculty-of-health-sciences-graduate-programs-outstanding-achievement-award-for-2026",
           title: ':trophy: Won a Faculty of Health Sciences Graduate Programs Outstanding Achievement Award for...',
           description: "",
-          section: "News",},{id: "news-oral-talk-the-zoonoses-antimicrobial-resistance-bioinformatics-zambi-conference",
-          title: 'Oral talk @ the Zoonoses, Antimicrobial Resistance, Bioinformatics (ZAMBI) conference.',
+          section: "News",},{id: "news-presented-an-oral-talk-the-zoonoses-antimicrobial-resistance-bioinformatics-zambi-conference",
+          title: 'Presented an oral talk @ the Zoonoses, Antimicrobial Resistance, Bioinformatics (ZAMBI) conference.',
           description: "",
           section: "News",},{id: "news-my-undergraduate-work-card-epi-is-now-published-as-a-preprint",
           title: 'My undergraduate work, CARD:Epi, is now published as a preprint!',

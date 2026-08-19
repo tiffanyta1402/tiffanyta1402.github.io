@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Oral talk @ the Zoonoses, Antimicrobial Resistance, Bioinformatics (ZAMBI) conference.
+Presented an oral talk @ the Zoonoses, Antimicrobial Resistance, Bioinformatics (ZAMBI) conference.

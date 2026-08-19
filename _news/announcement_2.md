@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-04-15
+date: 2026-07-07
 inline: true
 related_posts: false
 ---
 
-:trophy: Won a Faculty of Health Sciences Graduate Programs Outstanding Achievement Award for 2026.
+Oral talk @ the Zoonoses, Antimicrobial Resistance, Bioinformatics (ZAMBI) conference.

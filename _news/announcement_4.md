@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2026-03-25
+date: 2026-03-27
 inline: true
 related_posts: false
 ---
 
-:trophy: Won best poster at the Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies at Wellcome Genome Campus, Hinxton, England! 
- 
+Attended the AMR Genomics Hackathon at Jesus College, Cambridge University, England. See some of the work that I contributed to <a href='https://github.com/AMR-genomics-hackathon-2026/atb-ai-agent'>here</a>.

@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2026-07-07
+date: 2026-08-19
 inline: true
 related_posts: false
 ---
 
-Oral talk @ the Zoonoses, Antimicrobial Resistance, Bioinformatics (ZAMBI) conference.
+My undergraduate work, CARD:Epi, is now published as a [preprint](https://www.biorxiv.org/content/10.64898/2026.08.14.744850v1)!
+ 
